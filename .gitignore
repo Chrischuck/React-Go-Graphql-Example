@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+docker-compose.yml
+env.go
